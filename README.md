@@ -1,5 +1,5 @@
 # Interpolacion-polinomica
-Apuntes y trabajos prácticos de interpolación polinómica
+Examenes y trabajos prácticos semanales de cálculo numérico
 
 Libro de referencia : 
          Ed. Amazon
