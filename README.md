@@ -2,7 +2,7 @@
 Examenes y trabajos prácticos semanales de cálculo numérico
 
 Libro de referencia :  interpolacion_polinomica.pdf en este repositorio. 
-                       también en amazon.es
+                       También en amazon.es
          
          Interpolación polinómica de alto orden. Métodos espectrales. 
          Aplicación a problemas de contorno y de condiciones iniciales.
