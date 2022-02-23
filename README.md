@@ -1,6 +1,6 @@
 ## Calculo numérico
 
-##Interpolacion-polinomica, problema de Cauchy y de contorno.
+## Interpolacion-polinomica, problema de Cauchy y de contorno.
 Examenes y trabajos prácticos semanales de cálculo numérico.
 
 Libro de referencia :  interpolacion_polinomica.pdf en este repositorio y también en amazon.es
