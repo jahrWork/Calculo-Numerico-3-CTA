@@ -1,5 +1,6 @@
-### Calculo numérico:Interpolacion-polinomica, problema de Cauchy y de contorno en edos y edps
-Examenes y trabajos prácticos semanales de cálculo numérico
+## Calculo numérico:Interpolacion-polinomica, problema de Cauchy y de contorno.
+Examenes y trabajos prácticos semanales de cálculo numérico.
+
 Libro de referencia :  interpolacion_polinomica.pdf en este repositorio y también en amazon.es
 
 #### Libro de interpolación [Amazon book](https://www.amazon.es/Interpolaci%C3%B3n-polin%C3%B3mica-espectrales-Aplicaci%C3%B3n-condiciones/dp/1076625592/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=interpolacion+polinomica+hernandez&qid=1631172924&sr=8-1)
