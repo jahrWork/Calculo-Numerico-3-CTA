@@ -1,7 +1,7 @@
 ## Calculo numérico
 
 ## Interpolacion-polinomica, problema de Cauchy y de contorno.
-Examenes y trabajos prácticos semanales de cálculo numérico.
+Examenes y trabajos prácticos semanales de cálculo numérico.[PDF](https://github.com/jahrWork/Calculo-Numerico-3-CTA/blob/master/hitos%20semanales/weekly_milestones.pdf)
 
 Libro de referencia :  interpolacion_polinomica.pdf en este repositorio y también en amazon.es
 
